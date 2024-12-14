@@ -15,7 +15,10 @@ footer {
   color: #DBEDF3;
   font-family: sans-serif;
 }
-
+.pressed{
+  box-shadow: 0 4px  3px gray ;
+  opacity: 0.5;
+}
 .w {
   background-image: url("./images/crash.png");
 }
